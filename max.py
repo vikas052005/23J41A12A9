@@ -3,4 +3,4 @@ maximum = a[0]
 for i in range(len(a)):
     if a[i] > maximum:
         maximum = a[i]
-print(smaximum)
+print(maximum)
